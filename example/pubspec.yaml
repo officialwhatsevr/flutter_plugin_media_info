@@ -1,6 +1,5 @@
 name: media_info_example
-description: Demonstrates how to use the media_info plugin.
-publish_to: 'none'
+description: Demonstrates how to use the media_info plugin
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
